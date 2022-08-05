@@ -1,0 +1,46 @@
+- name: TC Energy
+  title: software engineer intern
+  img: tc.jpg
+  year: sept 2021 - current
+  things:
+    wip
+  techlist:
+    - ServiceNow
+    - Angular
+    - Power Apps
+    - AWS 
+    - MySql
+  lang_ratios:
+    - name: ServiceNow
+      percent: 55
+    - name: JavaScript
+      percent: 30
+    - name: AWS
+      percent: 15
+- name: Expandable Esports
+  title: fullstack developer lead
+  img: expandable.png
+  year: jan 2021 - may 2021
+  things:
+    implemented websites, and landing pages from concept through deployment. helped reduce all costs in hosting webpage. assessed UX and UI designs for quality.
+  techlist:
+    - AJAX PHP
+    - BootStrap
+  lang_ratios:
+    - name: HTML
+      percent: 50
+    - name: CSS
+      percent: 25
+    - name: JavaScript
+      percent: 25
+- name: C&C EduCenter
+  title: python instructor
+  img: cc.jpeg
+  year: nov 2019 - mar 2020
+  things:
+    helped teach a class of high schoolers in Python, going as advanced as recursion. helped develop weekly lessons plans, and solutions to given problems. one on one tutored a student in Scratch and later Python
+  techlist:
+    
+  lang_ratios:
+    - name: Python
+      percent: 100

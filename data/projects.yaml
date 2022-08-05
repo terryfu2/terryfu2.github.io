@@ -1,0 +1,87 @@
+- name: secure paste
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: 
+  desc:
+    cyber security app in progress
+  techlist:
+    
+  lang_ratios:
+  
+
+- name: frogger clone
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: https://github.com/terryfu33/frogger-pi
+  desc:
+    designed and coded a fully functional Frogger clone using C and ArmV8 Assembly for a
+    Linux operating system
+  techlist:
+    - ArmV8 Assembly
+    - MakeFile
+    - Bash
+  lang_ratios:
+    - name: C
+      percent: 80
+    - name: Assembly
+      percent: 20
+
+- name: iChat33
+  expand: false
+  short_desc:
+  links:
+    - link_name: github
+      link: https://github.com/terryfu33/iChat
+    - link_name: site
+      link: https://ichat33.herokuapp.com/
+  desc: a fun, minimal little chat application 
+  techlist:
+    - MongoDB
+    - React
+    - Express Js
+    - Heroku
+  lang_ratios:
+    - name: JavaScript
+      percent: 90
+    - name: HTML
+      percent: 6
+    - name: CSS
+      percent: 4
+
+- name: momentum
+  expand: false
+  links:
+    - link_name: github
+      link: https://github.com/terryfu33/momentum-vscode
+    - link_name: site
+      link: https://terryfu.ca/other/pages/momentum.html
+  desc:
+    a minimal, dark blue theme for vscode
+  techlist:
+    - JSON
+  lang_ratios:
+    - name: JavaScript
+      percent: 100
+  
+- name: this site
+  expand: false
+  short_desc: the thing you're on right now
+  links:
+    - link_name: github
+      link: https://github.com/
+  desc:
+    probably working on creating a new site right now
+  techlist:
+    - Hugo
+    - lite.css
+  lang_ratios:
+    - name: JavaScript
+      percent: 35
+    - name: HTML
+      percent: 35
+    - name: CSS
+      percent: 30
