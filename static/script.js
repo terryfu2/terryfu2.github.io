@@ -20,6 +20,7 @@ function switchTheme(e) {
   }    
 }
 
+
 // listen for toggle
 toggleSwitch.addEventListener('change', switchTheme, false);
 

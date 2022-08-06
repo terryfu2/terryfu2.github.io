@@ -3,7 +3,9 @@
   img: tc.jpg
   year: sept 2021 - current
   things:
-    wip
+    built a request portal for 7k users that reduced ticket resolution time by 86%.
+    engineered and standardized multiple applications and automations that are now used company-wide on a weekly basis.
+    remodeled an emergency contact application that scaled to over 14k users and reduced Operations support by 100%.
   techlist:
     - ServiceNow
     - Angular
@@ -17,6 +19,25 @@
       percent: 30
     - name: AWS
       percent: 15
+- name: Apollo DAE Inc.
+  title: software engineer intern
+  img: apollo.png
+  year: may 2021 - sept 2021
+  things:
+    led development of websites and mobile applications from concept through deployment. 
+    collaborated with user Experience and user interface teams for technical feasibility. 
+    drove team communications and debugging for a refined final product. 
+
+  techlist:
+    - Svelte JS
+    - Tailwind CSS
+    - Heroku
+    - Firebase
+  lang_ratios:
+    - name: JavaScript
+      percent: 70
+    - name: CSS
+      percent: 30
 - name: Expandable Esports
   title: fullstack developer lead
   img: expandable.png
