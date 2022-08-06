@@ -14,11 +14,11 @@
     - MySql
   lang_ratios:
     - name: ServiceNow
-      percent: 55
+      percent: 40
     - name: JavaScript
       percent: 30
     - name: AWS
-      percent: 15
+      percent: 30
 - name: Apollo DAE Inc.
   title: software engineer intern
   img: apollo.png
