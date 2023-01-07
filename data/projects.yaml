@@ -2,16 +2,31 @@
   expand: false
   short_desc: 
   links:
-    - link_name: github
-      link: 
+   
   desc:
     cyber security app in progress
   techlist:
     
   lang_ratios:
-  
 
-- name: frogger clone
+- name: apptrack
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/apptrackapi
+  desc:
+    a central location to store applications, and apply to others
+  techlist:
+    - MySQL
+    - Express 
+  lang_ratios:
+    - name: TypeScript
+      percent: 40
+    - name: JavaScript
+      percent: 60
+
+- name: froggerclone
   expand: false
   short_desc: 
   links:
@@ -30,14 +45,13 @@
     - name: Assembly
       percent: 20
 
-- name: iChat33
+- name: chatter
   expand: false
   short_desc:
   links:
     - link_name: github
-      link: https://github.com/terryfu33/iChat
-    - link_name: site
-      link: https://ichat33.herokuapp.com/
+      link: https://github.com/terryfu33/chatter
+    
   desc: a fun, minimal little chat application 
   techlist:
     - MongoDB
