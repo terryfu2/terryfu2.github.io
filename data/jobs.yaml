@@ -19,25 +19,6 @@
       percent: 30
     - name: AWS
       percent: 30
-- name: Apollo DAE Inc.
-  title: software engineer intern
-  img: apollo.png
-  year: may 2021 - sept 2021
-  things:
-    led development of websites and mobile applications from concept through deployment. 
-    collaborated with user Experience and user interface teams for technical feasibility. 
-    drove team communications and debugging for a refined final product. 
-
-  techlist:
-    - Svelte JS
-    - Tailwind CSS
-    - Heroku
-    - Firebase
-  lang_ratios:
-    - name: JavaScript
-      percent: 70
-    - name: CSS
-      percent: 30
 - name: Expandable Esports
   title: fullstack developer lead
   img: expandable.png
