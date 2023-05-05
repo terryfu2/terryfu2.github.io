@@ -7,9 +7,9 @@ descriptors:
   - a dev.
   - an athlete.
 at: 
-  school: uofc
+  school: uofc & arc resources ltd
   degree: computer science w/ concentration in info security & minor in actuarial science
-  job: hopefully your company :)
+  job: 
   club: dinos & saracens rugby, techstart ucalgary
 resume:
   ../../../resources/resume.pdf
