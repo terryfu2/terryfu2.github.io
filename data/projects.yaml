@@ -9,22 +9,33 @@
     
   lang_ratios:
 
-- name: apptrack
+- name: sftp
   expand: false
   short_desc: 
   links:
     - link_name: github
-      link: https://github.com/terryfu2/apptrackapi
+      link: https://github.com/terryfu2/stfp
   desc:
-    a central location to store applications, and apply to others
+    simple file transfer protocol - recreating the reliabiliy of TCP using UDP sockets
   techlist:
-    - MySQL
-    - Express 
+   
   lang_ratios:
-    - name: TypeScript
-      percent: 40
-    - name: JavaScript
-      percent: 60
+    - name: C
+      percent: 100
+ 
+- name: principlesOS
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/principlesOS
+  desc:
+    a collection of common OS operations and algorithms
+  techlist:
+   
+  lang_ratios:
+    - name: C++
+      percent: 100
 
 - name: froggerclone
   expand: false
