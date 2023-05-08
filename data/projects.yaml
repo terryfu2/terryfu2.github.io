@@ -22,20 +22,7 @@
   lang_ratios:
     - name: C
       percent: 100
- 
-- name: principlesOS
-  expand: false
-  short_desc: 
-  links:
-    - link_name: github
-      link: https://github.com/terryfu2/principlesOS
-  desc:
-    a collection of common OS operations and algorithms
-  techlist:
-   
-  lang_ratios:
-    - name: C++
-      percent: 100
+
 
 - name: froggerclone
   expand: false
