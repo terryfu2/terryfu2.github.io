@@ -3,10 +3,14 @@
   img: arc.PNG
   year: may 2023 - current
   things:
-    
   techlist:
-  
+    - C#
+    - PowerShell
+    - ServiceNow
+    - Azure DevOps
+    
   lang_ratios:
+    
    
 - name: TC Energy
   title: software engineer intern
