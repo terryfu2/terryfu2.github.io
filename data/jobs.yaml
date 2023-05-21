@@ -3,14 +3,21 @@
   img: arc.PNG
   year: may 2023 - current
   things:
+    Developed and worked on multiple applications and scripts to increase company workflow and efficiency across various teams
+    Managed and planned weekly sprints in an agile environment
+
   techlist:
-    - C#
     - PowerShell
-    - ServiceNow
     - Azure DevOps
+    - SQL
     
   lang_ratios:
-    
+    - name: C#
+      percent: 50
+    - name: Python
+      percent: 20
+    - name: ServiceNow
+      percent: 30
    
 - name: TC Energy
   title: software engineer intern
