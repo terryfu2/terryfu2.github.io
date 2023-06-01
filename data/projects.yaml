@@ -4,10 +4,40 @@
   links:
    
   desc:
-    cyber security app in progress
+    in progress...
   techlist:
     
   lang_ratios:
+    - name: TypeScript
+      percent: 100
+
+- name: MealMagic
+  expand: false
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/mealmagic
+  desc:
+    cooking up a storm with every click
+  techlist:
+    
+  lang_ratios:
+    - name: C#
+      percent: 100
+
+- name: ctrl-web
+  expand: false
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/ctrl-web
+    - link_name: site
+      link: https://marketplace.visualstudio.com/items?itemName=TerryFu.ctrl-web&ssr=false#overview
+  desc:
+    simplifying the vscode workflow 
+  techlist:
+    
+  lang_ratios:
+    - name: TypeScript
+      percent: 100
 
 - name: sftp
   expand: false
@@ -23,13 +53,27 @@
     - name: C
       percent: 100
 
+- name: momentum-vscode
+  expand: false
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/momentum-vscode
+    - link_name: site
+      link: https://marketplace.visualstudio.com/items?itemName=TerryFu.momentum-vscode&ssr=false#overview
+  desc:
+    a minimal, dark blue theme for vscode
+  techlist:
+    - JSON
+  lang_ratios:
+    - name: JavaScript
+      percent: 100
 
 - name: froggerclone
   expand: false
   short_desc: 
   links:
     - link_name: github
-      link: https://github.com/terryfu33/frogger-pi
+      link: https://github.com/terryfu2/frogger-pi
   desc:
     designed and coded a fully functional Frogger clone using C and ArmV8 Assembly for a
     Linux operating system
@@ -48,7 +92,7 @@
   short_desc:
   links:
     - link_name: github
-      link: https://github.com/terryfu33/chatter
+      link: https://github.com/terryfu2/chatter
     
   desc: a fun, minimal little chat application 
   techlist:
@@ -64,20 +108,7 @@
     - name: CSS
       percent: 4
 
-- name: momentum
-  expand: false
-  links:
-    - link_name: github
-      link: https://github.com/terryfu33/momentum-vscode
-    - link_name: site
-      link: https://terryfu.ca/other/pages/momentum.html
-  desc:
-    a minimal, dark blue theme for vscode
-  techlist:
-    - JSON
-  lang_ratios:
-    - name: JavaScript
-      percent: 100
+
   
 - name: this site
   expand: false
