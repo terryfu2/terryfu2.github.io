@@ -1,3 +1,31 @@
+- name: ConvolutionReverb
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/
+  desc:
+    an optimized implementation of audio digital signal processing techniques
+  techlist:
+    
+  lang_ratios:
+    - name: C++
+      percent: 100
+
+- name: DistributedObjects
+  expand: false
+  short_desc: 
+  links:
+    - link_name: github
+      link: https://github.com/terryfu2/DistributedObjects
+  desc:
+    an object inspector, reflection, serializer and the inverse in one
+  techlist:
+    
+  lang_ratios:
+    - name: Java
+      percent: 100
+
 - name: secure paste
   expand: false
   short_desc: 

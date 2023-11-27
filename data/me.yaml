@@ -9,7 +9,7 @@ descriptors:
 at: 
   school: uofc 
   degree: computer science w/ concentration in info security & minor in actuarial science
-  job: arc resources ltd
+  job: 
   club: dinos & saracens rugby, techstart ucalgary
 resume:
   ../../../resources/resume.pdf
