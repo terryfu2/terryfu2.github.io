@@ -5,12 +5,12 @@ date: "2024-05-01"
 
 A distributed recreation of [r/place](https://en.wikipedia.org/wiki/R/place)
 
-![plot](/projects/imgs/demoCanva.PNG)
+![plot](https://raw.githubusercontent.com/terryfu2/terryfu2.github.io/v4/content/projects/imgs/demoCanva.PNG)
 
 [github](https://github.com/terryfu2/canvas)
 
 ## Architecture  
-![plot](/projects/imgs/archCanva.PNG)
+![plot](https://raw.githubusercontent.com/terryfu2/terryfu2.github.io/v4/content//projects/imgs/archCanva.PNG)
 
 
 ## Features

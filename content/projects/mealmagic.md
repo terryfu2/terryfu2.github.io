@@ -7,7 +7,7 @@ date: "2023-05-01"
 </p>
 
 
-![plot](/projects/imgs/demoMealmagic.PNG)
+![plot](https://raw.githubusercontent.com/terryfu2/terryfu2.github.io/v4/content/projects/imgs/demoMealmagic.PNG)
 
 [github](https://github.com/terryfu2/mealmagic)
 
