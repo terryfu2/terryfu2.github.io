@@ -34,9 +34,9 @@ interface BreadcrumbOptions {
 
 const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
-  rootName: "Home",
+  rootName: "terryfu.ca",
   resolveFrontmatterTitle: true,
-  hideOnRoot: true,
+  hideOnRoot: false,
   showCurrentPage: true,
 }
 
