@@ -36,7 +36,7 @@ const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
   rootName: "terryfu.ca",
   resolveFrontmatterTitle: true,
-  hideOnRoot: false,
+  hideOnRoot: false, 
   showCurrentPage: true,
 }
 
