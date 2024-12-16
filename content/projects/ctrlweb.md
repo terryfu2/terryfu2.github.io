@@ -10,6 +10,7 @@ date: "2023-07-01"
  
  
 <!--https://github.com/terryfu2/ctrl-web/assets/40301450/d8f9ee54-7001-4e6b-bd11-dd7db7158ebb-->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 [github](https://github.com/terryfu2/ctrl-web) [site](https://marketplace.visualstudio.com/items?itemName=terryfu.ctrl-web)
 </p> 

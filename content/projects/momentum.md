@@ -18,6 +18,7 @@ date: "2021-04-22"
   
 
 ![demo](https://raw.githubusercontent.com/terryfu33/momentum-vscode/master/images/demo.jpg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [github](https://github.com/terryfu2/momentum-vscode) [site](https://marketplace.visualstudio.com/items?itemName=TerryFu.momentum-vscode&ssr=false#overview)
  <h2>Color Palette</h2>
