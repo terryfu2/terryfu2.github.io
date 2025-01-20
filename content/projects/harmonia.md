@@ -4,6 +4,7 @@ title: "harmonia"
 
 interactive vinyl player in your browser
 
+![plot](https://raw.githubusercontent.com/terryfu2/terryfu2.github.io/v4/content/projects/imgs/harmonia.png)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ### features
 - spotify login
