@@ -9,6 +9,8 @@
 - [Higher Ground](https://www.highergroundcafe.ca/coffee-tea) Dark Expresso Roast
 - [Tours Les Jours](https://tljus.com/menus/coffee-espresso) Everyday Roast
 - [Deville](https://store.devillecoffee.ca/products/espresso-roast-direct-trade) Fazenda Furnas Expresso Roast
+- [Second Cup](https://secondcup.com/en/) Hazelnut Creama
+- [Kingdom Coffee](https://www.kingdomcoffee.ca/) Dark Roast Reach
 - [Starbucks](https://www.starbucks.ca/) Pike Place
 - [Kicking Horse](https://kickinghorsecoffee.com/) Grizzly Claw, Smart Ass
  
