@@ -8,6 +8,7 @@
 - [Lavazza](https://www.lavazza.ca/en/whole-beans/classico) Classico Whole Bean
 - [Higher Ground](https://www.highergroundcafe.ca/coffee-tea) Dark Expresso Roast
 - [Tours Les Jours](https://tljus.com/menus/coffee-espresso) Everyday Roast
+- [Good Earth](https://goodearthcoffeehouse.com/our-coffee/coffee-origins-and-roasts/) Espresso Global Village
 - [Deville](https://store.devillecoffee.ca/products/espresso-roast-direct-trade) Fazenda Furnas Expresso Roast
 - [Second Cup](https://secondcup.com/en/) Hazelnut Creama
 - [Kingdom Coffee](https://www.kingdomcoffee.ca/) Dark Roast Reach
